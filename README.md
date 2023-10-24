@@ -21,4 +21,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskan-1003&show_icons=true&locale=en&layout=compact" alt="muskan-1003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskan-1003&" alt="muskan-1003" /></p>
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=geekaryan&theme=dark&font=Georgia)
+
